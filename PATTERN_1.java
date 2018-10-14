@@ -1,3 +1,10 @@
+/*
+*
+**
+***
+****
+*****
+ */
 class PATTERN_1
 {
     public static void main()
