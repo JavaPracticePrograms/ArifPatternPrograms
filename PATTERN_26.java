@@ -1,8 +1,14 @@
+// xxxxxxxxx
+// yxxxxxxxy
+// yyxxxxxyy
+// yyyxxxyyy
+// yyyyxyyyy
+
 class PATTERN_26
 {
     public static void main()
     {
-        int a=1,b=1;
+        int a=1,b=0;
 
         for(int i=1; i <= 5; i++)
         {

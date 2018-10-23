@@ -1,8 +1,18 @@
+// xxxxxxxxx
+// yyxxxxxxx
+// yyyyxxxxx
+// yyyyyyxxx
+// yyyyyyyyx
+// yyyyyyxxx
+// yyyyxxxxx
+// yyxxxxxxx
+// xxxxxxxxx
+
 class PATTERN_24
 {
     public static void main()
     { 
-        int a=1,b=1,c=1,d=3;
+        int a=0,b=1,c=1,d=3;
         for(int i=1;i<=5;i++)
         {
 
@@ -21,7 +31,7 @@ class PATTERN_24
 
         for(int i=1;i<=4;i++)
         {
-            for(int j=7;j>=c;j--)
+            for(int j=6;j>=c;j--)
             {
                 System.out.print("y");
             }

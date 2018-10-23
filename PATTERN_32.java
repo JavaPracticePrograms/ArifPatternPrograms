@@ -1,3 +1,9 @@
+// yyyyyyyyxxxxx
+// yyyyyyxxxx
+// yyyyxxx
+// yyxx
+// x
+
 class PATTERN_32
 {
     public static void main()

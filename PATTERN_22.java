@@ -1,8 +1,14 @@
+// xxxxxxxxx
+// yyxxxxxxx
+// yyyyxxxxx
+// yyyyyyxxx
+// yyyyyyyyx
+
 class PATTERN_22
 {
     public static void main()
     {
-         int a=1,b=1;
+         int a=0,b=1;
         for(int i=1;i<=5;i++)
         {
 
@@ -10,7 +16,8 @@ class PATTERN_22
             {
                 System.out.print("y");
             }
-            a=a+2;
+            a=a+2
+            ;
             for(int k=9;k>=b;k--)
             {
                 System.out.print("x");
