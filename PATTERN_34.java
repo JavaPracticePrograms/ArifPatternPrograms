@@ -1,3 +1,13 @@
+// yyyyyyyyxxxxx
+// yyyyyyxxxx
+// yyyyxxx
+// yyxx
+// x
+// yyxx
+// yyyyxxx
+// yyyyyyxxxx
+// yyyyyyyyxxxxx
+
 class PATTERN_34
 {
     public static void main()

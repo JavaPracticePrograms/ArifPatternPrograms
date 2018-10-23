@@ -1,7 +1,17 @@
+// xxxxxxxxx
+// yxxxxxxxy
+// yyxxxxxyy
+// yyyxxxyyy
+// yyyyxyyyy
+// yyyxxxyyy
+// yyxxxxxyy
+// yxxxxxxxy
+// xxxxxxxxx
+
 class PATTERN_30
 {
     public static void main()
-    {  int a=1,b=1,c=1,d=3;
+    {  int a=1,b=0,c=1,d=3;
 
         for(int i=1; i <= 5; i++)
         {
@@ -25,7 +35,7 @@ class PATTERN_30
 
         for(int i=1;i<=4;i++)
         {
-            for(int j=4;j>=c;j--)
+            for(int j=3;j>=c;j--)
             {
                 System.out.print("y");
             }
@@ -35,7 +45,7 @@ class PATTERN_30
                 System.out.print("x");
             }
             d=d+2;
-            for(int l=4;l>=c;l--)
+            for(int l=3;l>=c;l--)
             {
                 System.out.print("y");
             }
@@ -44,4 +54,5 @@ class PATTERN_30
         }
     }
 }
+
 

@@ -1,15 +1,25 @@
+// xxxxx
+// yyyxxxx
+// yyyyyyxxx
+// yyyyyyyyyxx
+// yyyyyyyyyyyyx
+// yyyyyyyyyxx
+// yyyyyyxxx
+// yyyxxxx
+// xxxxx
+
 class PATTERN_31
 {
     public static void main()
     {
-        int a=3,b=1,c=1,d=2;
+        int a=0,b=1,c=1,d=2;
         for(int i=1;i<=5;i++)
         {
             for(int j=1;j<=a;j++)
             {
                 System.out.print("y");
             }
-            a=a+2;
+            a=a+3;
             for(int k=5;k>=b;k--)
             {
                 System.out.print("x");

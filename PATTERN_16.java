@@ -2,14 +2,15 @@ class PATTERN_16
 {
     public static void main()
     {
-        int a=5,b=5;
-        for(int i=1;i<=a;i++)
+        int a=0,b=5;
+        for(int i=1;i<=5;i++)
         {
 
-            for(int j=1;j<=i;j++)
+            for(int j=1;j<=a;j++)
             {
                 System.out.print(" ");
             }
+            a++;
             for(int k=1;k<=b;k++)
             {
                 System.out.print("x");
@@ -17,7 +18,7 @@ class PATTERN_16
             b--;
 
             System.out.println();
-            
+
         }
     }
 }
