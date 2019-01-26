@@ -1,32 +1,21 @@
-class PATTERN_16
+class PATTERN_35
 {
     public static void main()
     {
-        int a=0,b=5;
-        for(int i=1;i<=5;i++)
+        for(int i=1;i<=4;i++)
         {
-
-            for(int j=1;j<=a;j++)
+            for(int j=1;j<=3;j++)
             {
                 System.out.print(" ");
             }
-            a++;
-            for(int k=1;k<=b;k++)
+            for(int k=1;k<=1;k++)
             {
                 System.out.print("x");
             }
-            b--;
-
+            
             System.out.println();
-
         }
     }
 }
-
-// OUTPUT-
-// xxxxx
-// xxxx
-// xxx
-// xx
-// x
-
+            
+        
